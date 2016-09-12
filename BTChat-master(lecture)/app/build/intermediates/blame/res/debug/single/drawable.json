@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\VIVI\\IoT\\IoTProject\\BTChat-master(lecture)\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\form_button_selector.xml",
+        "source": "C:\\VIVI\\IoT\\IoTProject\\BTChat-master(lecture)\\app\\src\\main\\res\\drawable\\form_button_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\ek\\Desktop\\BTChat-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\form_button_selector.xml",
+        "source": "C:\\Users\\ek\\Desktop\\BTChat-master\\app\\src\\main\\res\\drawable\\form_button_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\ek\\AndroidStudioProjects\\BTChat-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\form_button_selector.xml",
+        "source": "C:\\Users\\ek\\AndroidStudioProjects\\BTChat-master\\app\\src\\main\\res\\drawable\\form_button_selector.xml"
+    }
+]

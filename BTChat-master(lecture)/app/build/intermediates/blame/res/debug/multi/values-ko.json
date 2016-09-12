@@ -1,0 +1,1499 @@
+[
+    {
+        "outputFile": "C:\\Users\\ek\\Desktop\\BTChat-master\\app\\build\\intermediates\\res\\merged\\debug\\values-ko\\values-ko.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 46,
+                    "endOffset": 97
+                },
+                "from": {
+                    "file": "C:\\Users\\ek\\Desktop\\BTChat-master\\app\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 190,
+                        "endColumn": 46,
+                        "endOffset": 232
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 102,
+                    "endColumn": 44,
+                    "endOffset": 142
+                },
+                "from": {
+                    "file": "C:\\Users\\ek\\Desktop\\BTChat-master\\app\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 44,
+                        "endOffset": 96
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 147,
+                    "endColumn": 54,
+                    "endOffset": 197
+                },
+                "from": {
+                    "file": "C:\\Users\\ek\\Desktop\\BTChat-master\\app\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1141,
+                        "endColumn": 54,
+                        "endOffset": 1191
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 202,
+                    "endColumn": 95,
+                    "endOffset": 293
+                },
+                "from": {
+                    "file": "C:\\Users\\ek\\Desktop\\BTChat-master\\app\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1045,
+                        "endColumn": 95,
+                        "endOffset": 1136
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 298,
+                    "endColumn": 51,
+                    "endOffset": 345
+                },
+                "from": {
+                    "file": "C:\\Users\\ek\\Desktop\\BTChat-master\\app\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 888,
+                        "endColumn": 51,
+                        "endOffset": 935
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 350,
+                    "endColumn": 50,
+                    "endOffset": 396
+                },
+                "from": {
+                    "file": "C:\\Users\\ek\\Desktop\\BTChat-master\\app\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 940,
+                        "endColumn": 50,
+                        "endOffset": 986
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 401,
+                    "endColumn": 48,
+                    "endOffset": 445
+                },
+                "from": {
+                    "file": "C:\\Users\\ek\\Desktop\\BTChat-master\\app\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 991,
+                        "endColumn": 48,
+                        "endOffset": 1035
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 450,
+                    "endColumn": 50,
+                    "endOffset": 496
+                },
+                "from": {
+                    "file": "C:\\Users\\ek\\Desktop\\BTChat-master\\app\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 769,
+                        "endColumn": 50,
+                        "endOffset": 815
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 501,
+                    "endColumn": 67,
+                    "endOffset": 564
+                },
+                "from": {
+                    "file": "C:\\Users\\ek\\Desktop\\BTChat-master\\app\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 820,
+                        "endColumn": 67,
+                        "endOffset": 883
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 569,
+                    "endColumn": 46,
+                    "endOffset": 611
+                },
+                "from": {
+                    "file": "C:\\Users\\ek\\Desktop\\BTChat-master\\app\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 717,
+                        "endColumn": 46,
+                        "endOffset": 759
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 616,
+                    "endColumn": 45,
+                    "endOffset": 657
+                },
+                "from": {
+                    "file": "C:\\Users\\ek\\Desktop\\BTChat-master\\app\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 1558,
+                        "endColumn": 45,
+                        "endOffset": 1599
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 662,
+                    "endColumn": 42,
+                    "endOffset": 700
+                },
+                "from": {
+                    "file": "C:\\Users\\ek\\Desktop\\BTChat-master\\app\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 1631,
+                        "endColumn": 42,
+                        "endOffset": 1669
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 705,
+                    "endColumn": 59,
+                    "endOffset": 760
+                },
+                "from": {
+                    "file": "C:\\Users\\ek\\Desktop\\BTChat-master\\app\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 1674,
+                        "endColumn": 59,
+                        "endOffset": 1729
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 765,
+                    "endColumn": 52,
+                    "endOffset": 813
+                },
+                "from": {
+                    "file": "C:\\Users\\ek\\Desktop\\BTChat-master\\app\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1385,
+                        "endColumn": 52,
+                        "endOffset": 1433
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 818,
+                    "endColumn": 55,
+                    "endOffset": 869
+                },
+                "from": {
+                    "file": "C:\\Users\\ek\\Desktop\\BTChat-master\\app\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1329,
+                        "endColumn": 55,
+                        "endOffset": 1380
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 874,
+                    "endColumn": 46,
+                    "endOffset": 916
+                },
+                "from": {
+                    "file": "C:\\Users\\ek\\Desktop\\BTChat-master\\app\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1230,
+                        "endColumn": 46,
+                        "endOffset": 1272
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 921,
+                    "endColumn": 51,
+                    "endOffset": 968
+                },
+                "from": {
+                    "file": "C:\\Users\\ek\\Desktop\\BTChat-master\\app\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 1277,
+                        "endColumn": 51,
+                        "endOffset": 1324
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 973,
+                    "endColumn": 56,
+                    "endOffset": 1025
+                },
+                "from": {
+                    "file": "C:\\Users\\ek\\Desktop\\BTChat-master\\app\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 101,
+                        "endColumn": 56,
+                        "endOffset": 153
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1030,
+                    "endColumn": 65,
+                    "endOffset": 1091
+                },
+                "from": {
+                    "file": "C:\\Users\\ek\\Desktop\\BTChat-master\\app\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 237,
+                        "endColumn": 65,
+                        "endOffset": 298
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1096,
+                    "endColumn": 93,
+                    "endOffset": 1185
+                },
+                "from": {
+                    "file": "C:\\Users\\ek\\Desktop\\BTChat-master\\app\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 410,
+                        "endColumn": 93,
+                        "endOffset": 499
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1190,
+                    "endColumn": 106,
+                    "endOffset": 1292
+                },
+                "from": {
+                    "file": "C:\\Users\\ek\\Desktop\\BTChat-master\\app\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 303,
+                        "endColumn": 106,
+                        "endOffset": 405
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1297,
+                    "endColumn": 49,
+                    "endOffset": 1342
+                },
+                "from": {
+                    "file": "C:\\Users\\ek\\Desktop\\BTChat-master\\app\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 545,
+                        "endColumn": 49,
+                        "endOffset": 590
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1347,
+                    "endColumn": 48,
+                    "endOffset": 1391
+                },
+                "from": {
+                    "file": "C:\\Users\\ek\\Desktop\\BTChat-master\\app\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 595,
+                        "endColumn": 48,
+                        "endOffset": 639
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1396,
+                    "endColumn": 60,
+                    "endOffset": 1452
+                },
+                "from": {
+                    "file": "C:\\Users\\ek\\Desktop\\BTChat-master\\app\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 1497,
+                        "endColumn": 60,
+                        "endOffset": 1553
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1457,
+                    "endColumn": 58,
+                    "endOffset": 1511
+                },
+                "from": {
+                    "file": "C:\\Users\\ek\\Desktop\\BTChat-master\\app\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1438,
+                        "endColumn": 58,
+                        "endOffset": 1492
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1516,
+                    "endColumn": 38,
+                    "endOffset": 1550
+                },
+                "from": {
+                    "file": "C:\\Users\\ek\\Desktop\\BTChat-master\\app\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 649,
+                        "endColumn": 38,
+                        "endOffset": 683
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\VIVI\\IoT\\IoTProject\\BTChat-master(lecture)\\app\\build\\intermediates\\res\\merged\\debug\\values-ko\\values-ko.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 46,
+                    "endOffset": 97
+                },
+                "from": {
+                    "file": "C:\\VIVI\\IoT\\IoTProject\\BTChat-master(lecture)\\app\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 190,
+                        "endColumn": 46,
+                        "endOffset": 232
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 102,
+                    "endColumn": 44,
+                    "endOffset": 142
+                },
+                "from": {
+                    "file": "C:\\VIVI\\IoT\\IoTProject\\BTChat-master(lecture)\\app\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 44,
+                        "endOffset": 96
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 147,
+                    "endColumn": 54,
+                    "endOffset": 197
+                },
+                "from": {
+                    "file": "C:\\VIVI\\IoT\\IoTProject\\BTChat-master(lecture)\\app\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1141,
+                        "endColumn": 54,
+                        "endOffset": 1191
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 202,
+                    "endColumn": 95,
+                    "endOffset": 293
+                },
+                "from": {
+                    "file": "C:\\VIVI\\IoT\\IoTProject\\BTChat-master(lecture)\\app\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1045,
+                        "endColumn": 95,
+                        "endOffset": 1136
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 298,
+                    "endColumn": 51,
+                    "endOffset": 345
+                },
+                "from": {
+                    "file": "C:\\VIVI\\IoT\\IoTProject\\BTChat-master(lecture)\\app\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 888,
+                        "endColumn": 51,
+                        "endOffset": 935
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 350,
+                    "endColumn": 50,
+                    "endOffset": 396
+                },
+                "from": {
+                    "file": "C:\\VIVI\\IoT\\IoTProject\\BTChat-master(lecture)\\app\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 940,
+                        "endColumn": 50,
+                        "endOffset": 986
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 401,
+                    "endColumn": 48,
+                    "endOffset": 445
+                },
+                "from": {
+                    "file": "C:\\VIVI\\IoT\\IoTProject\\BTChat-master(lecture)\\app\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 991,
+                        "endColumn": 48,
+                        "endOffset": 1035
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 450,
+                    "endColumn": 50,
+                    "endOffset": 496
+                },
+                "from": {
+                    "file": "C:\\VIVI\\IoT\\IoTProject\\BTChat-master(lecture)\\app\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 769,
+                        "endColumn": 50,
+                        "endOffset": 815
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 501,
+                    "endColumn": 67,
+                    "endOffset": 564
+                },
+                "from": {
+                    "file": "C:\\VIVI\\IoT\\IoTProject\\BTChat-master(lecture)\\app\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 820,
+                        "endColumn": 67,
+                        "endOffset": 883
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 569,
+                    "endColumn": 46,
+                    "endOffset": 611
+                },
+                "from": {
+                    "file": "C:\\VIVI\\IoT\\IoTProject\\BTChat-master(lecture)\\app\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 717,
+                        "endColumn": 46,
+                        "endOffset": 759
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 616,
+                    "endColumn": 45,
+                    "endOffset": 657
+                },
+                "from": {
+                    "file": "C:\\VIVI\\IoT\\IoTProject\\BTChat-master(lecture)\\app\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 1558,
+                        "endColumn": 45,
+                        "endOffset": 1599
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 662,
+                    "endColumn": 42,
+                    "endOffset": 700
+                },
+                "from": {
+                    "file": "C:\\VIVI\\IoT\\IoTProject\\BTChat-master(lecture)\\app\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 1631,
+                        "endColumn": 42,
+                        "endOffset": 1669
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 705,
+                    "endColumn": 59,
+                    "endOffset": 760
+                },
+                "from": {
+                    "file": "C:\\VIVI\\IoT\\IoTProject\\BTChat-master(lecture)\\app\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 1674,
+                        "endColumn": 59,
+                        "endOffset": 1729
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 765,
+                    "endColumn": 52,
+                    "endOffset": 813
+                },
+                "from": {
+                    "file": "C:\\VIVI\\IoT\\IoTProject\\BTChat-master(lecture)\\app\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1385,
+                        "endColumn": 52,
+                        "endOffset": 1433
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 818,
+                    "endColumn": 55,
+                    "endOffset": 869
+                },
+                "from": {
+                    "file": "C:\\VIVI\\IoT\\IoTProject\\BTChat-master(lecture)\\app\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1329,
+                        "endColumn": 55,
+                        "endOffset": 1380
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 874,
+                    "endColumn": 46,
+                    "endOffset": 916
+                },
+                "from": {
+                    "file": "C:\\VIVI\\IoT\\IoTProject\\BTChat-master(lecture)\\app\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1230,
+                        "endColumn": 46,
+                        "endOffset": 1272
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 921,
+                    "endColumn": 51,
+                    "endOffset": 968
+                },
+                "from": {
+                    "file": "C:\\VIVI\\IoT\\IoTProject\\BTChat-master(lecture)\\app\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 1277,
+                        "endColumn": 51,
+                        "endOffset": 1324
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 973,
+                    "endColumn": 56,
+                    "endOffset": 1025
+                },
+                "from": {
+                    "file": "C:\\VIVI\\IoT\\IoTProject\\BTChat-master(lecture)\\app\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 101,
+                        "endColumn": 56,
+                        "endOffset": 153
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1030,
+                    "endColumn": 65,
+                    "endOffset": 1091
+                },
+                "from": {
+                    "file": "C:\\VIVI\\IoT\\IoTProject\\BTChat-master(lecture)\\app\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 237,
+                        "endColumn": 65,
+                        "endOffset": 298
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1096,
+                    "endColumn": 93,
+                    "endOffset": 1185
+                },
+                "from": {
+                    "file": "C:\\VIVI\\IoT\\IoTProject\\BTChat-master(lecture)\\app\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 410,
+                        "endColumn": 93,
+                        "endOffset": 499
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1190,
+                    "endColumn": 106,
+                    "endOffset": 1292
+                },
+                "from": {
+                    "file": "C:\\VIVI\\IoT\\IoTProject\\BTChat-master(lecture)\\app\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 303,
+                        "endColumn": 106,
+                        "endOffset": 405
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1297,
+                    "endColumn": 49,
+                    "endOffset": 1342
+                },
+                "from": {
+                    "file": "C:\\VIVI\\IoT\\IoTProject\\BTChat-master(lecture)\\app\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 545,
+                        "endColumn": 49,
+                        "endOffset": 590
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1347,
+                    "endColumn": 48,
+                    "endOffset": 1391
+                },
+                "from": {
+                    "file": "C:\\VIVI\\IoT\\IoTProject\\BTChat-master(lecture)\\app\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 595,
+                        "endColumn": 48,
+                        "endOffset": 639
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1396,
+                    "endColumn": 60,
+                    "endOffset": 1452
+                },
+                "from": {
+                    "file": "C:\\VIVI\\IoT\\IoTProject\\BTChat-master(lecture)\\app\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 1497,
+                        "endColumn": 60,
+                        "endOffset": 1553
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1457,
+                    "endColumn": 58,
+                    "endOffset": 1511
+                },
+                "from": {
+                    "file": "C:\\VIVI\\IoT\\IoTProject\\BTChat-master(lecture)\\app\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1438,
+                        "endColumn": 58,
+                        "endOffset": 1492
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1516,
+                    "endColumn": 38,
+                    "endOffset": 1550
+                },
+                "from": {
+                    "file": "C:\\VIVI\\IoT\\IoTProject\\BTChat-master(lecture)\\app\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 649,
+                        "endColumn": 38,
+                        "endOffset": 683
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\ek\\AndroidStudioProjects\\BTChat-master\\app\\build\\intermediates\\res\\merged\\debug\\values-ko\\values-ko.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 46,
+                    "endOffset": 97
+                },
+                "from": {
+                    "file": "C:\\Users\\ek\\AndroidStudioProjects\\BTChat-master\\app\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 190,
+                        "endColumn": 46,
+                        "endOffset": 232
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 102,
+                    "endColumn": 44,
+                    "endOffset": 142
+                },
+                "from": {
+                    "file": "C:\\Users\\ek\\AndroidStudioProjects\\BTChat-master\\app\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 44,
+                        "endOffset": 96
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 147,
+                    "endColumn": 54,
+                    "endOffset": 197
+                },
+                "from": {
+                    "file": "C:\\Users\\ek\\AndroidStudioProjects\\BTChat-master\\app\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1141,
+                        "endColumn": 54,
+                        "endOffset": 1191
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 202,
+                    "endColumn": 95,
+                    "endOffset": 293
+                },
+                "from": {
+                    "file": "C:\\Users\\ek\\AndroidStudioProjects\\BTChat-master\\app\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1045,
+                        "endColumn": 95,
+                        "endOffset": 1136
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 298,
+                    "endColumn": 51,
+                    "endOffset": 345
+                },
+                "from": {
+                    "file": "C:\\Users\\ek\\AndroidStudioProjects\\BTChat-master\\app\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 888,
+                        "endColumn": 51,
+                        "endOffset": 935
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 350,
+                    "endColumn": 50,
+                    "endOffset": 396
+                },
+                "from": {
+                    "file": "C:\\Users\\ek\\AndroidStudioProjects\\BTChat-master\\app\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 940,
+                        "endColumn": 50,
+                        "endOffset": 986
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 401,
+                    "endColumn": 48,
+                    "endOffset": 445
+                },
+                "from": {
+                    "file": "C:\\Users\\ek\\AndroidStudioProjects\\BTChat-master\\app\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 991,
+                        "endColumn": 48,
+                        "endOffset": 1035
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 450,
+                    "endColumn": 50,
+                    "endOffset": 496
+                },
+                "from": {
+                    "file": "C:\\Users\\ek\\AndroidStudioProjects\\BTChat-master\\app\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 769,
+                        "endColumn": 50,
+                        "endOffset": 815
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 501,
+                    "endColumn": 67,
+                    "endOffset": 564
+                },
+                "from": {
+                    "file": "C:\\Users\\ek\\AndroidStudioProjects\\BTChat-master\\app\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 820,
+                        "endColumn": 67,
+                        "endOffset": 883
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 569,
+                    "endColumn": 46,
+                    "endOffset": 611
+                },
+                "from": {
+                    "file": "C:\\Users\\ek\\AndroidStudioProjects\\BTChat-master\\app\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 717,
+                        "endColumn": 46,
+                        "endOffset": 759
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 616,
+                    "endColumn": 45,
+                    "endOffset": 657
+                },
+                "from": {
+                    "file": "C:\\Users\\ek\\AndroidStudioProjects\\BTChat-master\\app\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 1558,
+                        "endColumn": 45,
+                        "endOffset": 1599
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 662,
+                    "endColumn": 42,
+                    "endOffset": 700
+                },
+                "from": {
+                    "file": "C:\\Users\\ek\\AndroidStudioProjects\\BTChat-master\\app\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 1631,
+                        "endColumn": 42,
+                        "endOffset": 1669
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 705,
+                    "endColumn": 59,
+                    "endOffset": 760
+                },
+                "from": {
+                    "file": "C:\\Users\\ek\\AndroidStudioProjects\\BTChat-master\\app\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 1674,
+                        "endColumn": 59,
+                        "endOffset": 1729
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 765,
+                    "endColumn": 52,
+                    "endOffset": 813
+                },
+                "from": {
+                    "file": "C:\\Users\\ek\\AndroidStudioProjects\\BTChat-master\\app\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1385,
+                        "endColumn": 52,
+                        "endOffset": 1433
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 818,
+                    "endColumn": 55,
+                    "endOffset": 869
+                },
+                "from": {
+                    "file": "C:\\Users\\ek\\AndroidStudioProjects\\BTChat-master\\app\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1329,
+                        "endColumn": 55,
+                        "endOffset": 1380
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 874,
+                    "endColumn": 46,
+                    "endOffset": 916
+                },
+                "from": {
+                    "file": "C:\\Users\\ek\\AndroidStudioProjects\\BTChat-master\\app\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1230,
+                        "endColumn": 46,
+                        "endOffset": 1272
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 921,
+                    "endColumn": 51,
+                    "endOffset": 968
+                },
+                "from": {
+                    "file": "C:\\Users\\ek\\AndroidStudioProjects\\BTChat-master\\app\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 1277,
+                        "endColumn": 51,
+                        "endOffset": 1324
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 973,
+                    "endColumn": 56,
+                    "endOffset": 1025
+                },
+                "from": {
+                    "file": "C:\\Users\\ek\\AndroidStudioProjects\\BTChat-master\\app\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 101,
+                        "endColumn": 56,
+                        "endOffset": 153
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1030,
+                    "endColumn": 65,
+                    "endOffset": 1091
+                },
+                "from": {
+                    "file": "C:\\Users\\ek\\AndroidStudioProjects\\BTChat-master\\app\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 237,
+                        "endColumn": 65,
+                        "endOffset": 298
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1096,
+                    "endColumn": 93,
+                    "endOffset": 1185
+                },
+                "from": {
+                    "file": "C:\\Users\\ek\\AndroidStudioProjects\\BTChat-master\\app\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 410,
+                        "endColumn": 93,
+                        "endOffset": 499
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1190,
+                    "endColumn": 106,
+                    "endOffset": 1292
+                },
+                "from": {
+                    "file": "C:\\Users\\ek\\AndroidStudioProjects\\BTChat-master\\app\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 303,
+                        "endColumn": 106,
+                        "endOffset": 405
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1297,
+                    "endColumn": 49,
+                    "endOffset": 1342
+                },
+                "from": {
+                    "file": "C:\\Users\\ek\\AndroidStudioProjects\\BTChat-master\\app\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 545,
+                        "endColumn": 49,
+                        "endOffset": 590
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1347,
+                    "endColumn": 48,
+                    "endOffset": 1391
+                },
+                "from": {
+                    "file": "C:\\Users\\ek\\AndroidStudioProjects\\BTChat-master\\app\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 595,
+                        "endColumn": 48,
+                        "endOffset": 639
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1396,
+                    "endColumn": 60,
+                    "endOffset": 1452
+                },
+                "from": {
+                    "file": "C:\\Users\\ek\\AndroidStudioProjects\\BTChat-master\\app\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 1497,
+                        "endColumn": 60,
+                        "endOffset": 1553
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1457,
+                    "endColumn": 58,
+                    "endOffset": 1511
+                },
+                "from": {
+                    "file": "C:\\Users\\ek\\AndroidStudioProjects\\BTChat-master\\app\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1438,
+                        "endColumn": 58,
+                        "endOffset": 1492
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1516,
+                    "endColumn": 38,
+                    "endOffset": 1550
+                },
+                "from": {
+                    "file": "C:\\Users\\ek\\AndroidStudioProjects\\BTChat-master\\app\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 649,
+                        "endColumn": 38,
+                        "endOffset": 683
+                    }
+                }
+            }
+        ]
+    }
+]

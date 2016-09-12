@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\VIVI\\IoT\\IoTProject\\BTChat-master(lecture)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "C:\\VIVI\\IoT\\IoTProject\\BTChat-master(lecture)\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ek\\AndroidStudioProjects\\BTChat-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\ek\\AndroidStudioProjects\\BTChat-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ek\\Desktop\\BTChat-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\ek\\Desktop\\BTChat-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    }
+]
