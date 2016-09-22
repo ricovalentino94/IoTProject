@@ -1,4 +1,4 @@
-/* Rico ...i.....n ...a.... ....p */
+
 /*
   Analog Input
  Demonstrates analog input by reading an analog sensor on analog pin 0 and
